@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-MM">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>种菜 | စိုက်ပျိုးဂိမ်း</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:sans-serif;}
+body{background:linear-gradient(135deg,#22c55e,#3b82f6);min-height:100vh;padding:20px;}
+.box{max-width:420px;margin:0 auto;background:#ffffffdd;border-radius:16px;padding:20px;overflow:hidden;}
+.title{text-align:center;padding:15px 0;border-bottom:1px #eee solid;margin-bottom:20px;}
+.title h2{color:#0284c7;font-size:24px;}
+.title p{color:#16a34a;margin-top:6px;}
+.img-show{width:100%;border-radius:12px;margin:15px 0;}
+.btn-game{display:block;width:100%;background:linear-gradient(90deg,#16a34a,#22c55e);color:#fff;text-align:center;padding:16px;border-radius:10px;font-size:18px;text-decoration:none;font-weight:bold;margin:20px 0;}
+.tx-area{background:#f0f9ff;padding:15px;border-radius:10px;margin-top:15px;}
+.tx-title{color:#0369a1;font-weight:bold;margin-bottom:10px;}
+.text-desc{line-height:1.8;color:#333;margin:10px 0;}
+</style>
+</head>
+<body>
+<div class="box">
+    <div class="title">
+        <h2>种菜</h2>
+        <p>စိုက်ပျိုးဂိမ်း</p>
+    </div>
+
+    <!-- 封面图：把你的封面图链接放这里 -->
+    <img class="img-show" src="这里替换成你的封面图链接" alt="种菜游戏">
+
+    <div class="text-desc">
+        <p>中文：休闲种菜小游戏，轻松游玩赚取收益，真实正规可提现</p>
+        <p style="margin-top:8px;">မြန်မာဘာသာ：အပင်စိုက်ကစားနည်းဂိမ်းဖြစ်ပြီးလွယ်လွယ်ကူကူကစားပြီးငွေရရှိနိုင်ပါသည်၊အမှန်တကယ်ငွေထုတ်လိုရပါသည်</p>
+    </div>
+
+    <!-- 游戏进入链接：把你的游戏链接放这里 -->
+    <a href="这里替换成你的游戏内部链接" class="btn-game">
+        立即进入游戏 / ဂိမ်းဝင်ရန်နှိပ်ပါ
+    </a>
+
+    <!-- 提现展示 -->
+    <div class="tx-area">
+        <div class="tx-title">提现展示 / ငွေထုတ်မှုပြသခြင်း</div>
+        <img class="img-show" src="这里替换成你的提现截图链接" alt="提现到账">
+        <p class="text-desc">支持缅甸本地支付，门槛低，到账稳定</p>
+        <p class="text-desc">မြန်မာနိုင်ငံငွေပေးစနစ်အားလုံးထောက်ပံ့၊အနည်းဆုံးထုတ်လိုရပြီးငွေမြန်မြန်ရောက်ရှိမည်</p>
+    </div>
+</div>
+</body>
+</html>
